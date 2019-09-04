@@ -1,4 +1,4 @@
-/*Exercise 3: Virtual Initialization*/
+/*Virtual Initialization*/
 
 #include <iostream>
 #include <fstream>
